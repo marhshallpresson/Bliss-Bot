@@ -1,0 +1,28 @@
+{
+  "name": "Bliss-Bot",
+  "version": "24.09.2",
+  "description": "Bliss Bot is a More Simplified Replicate Automations Software of the Original Okec Bot",
+  "scripts": {
+    "start": "Bliss-Bot-Script.js"
+  },
+  "keywords": [
+    "Bliss-bot"
+  ],
+  "author": "Marshall Presson",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "png-to-ico": "^2.1.8",
+    "puppeteer": "^23.8.0",
+    "readline": "^1.3.0",
+    "sharp": "^0.33.5",
+    "xavren": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
